@@ -1,0 +1,209 @@
+Specialism code_0,Specialism code_1,Specialism code_2,Specialism code_3,Specialism code_4,Combination,Age,category_name,Producer code,Activity code,Next_Class
+0,7,7,7,7,890692,33,buik        - stag.lap-tumorred.-omentec,OKU1,335512N,Pathology
+0,7,7,7,0,742610,72,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,7,7,906259,57,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,0,0,573760,83,buik        - primaire stageringsoperati,OKU1,335519A,Pathology
+0,7,7,7,7,851163,72,buik        - proeflaparotomie,OKU1,335512C,Pathology
+0,13,13,13,7,924686,73,buik        - stageringslaparotom.-oment,OKU1,335512G,Pathology
+0,13,13,13,7,924686,73,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+0,7,7,0,0,443344,64,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,7,7,929638,65,buik        - stageringslaparotom.-oment,OKU1,335512H,Recovery room / high care
+0,7,7,7,0,908704,65,uterus      - extirpatie - abdominaal me,OKU1,337101,Pathology
+13,7,7,0,0,492170,65,vrw.gesl.org- biopsie-punctie-cytologie,OKU1,337180,Pathology
+13,7,7,0,0,492170,65,buik        - stag.lap-tumorred.-omentec,OKU1,335512N,Recovery room / high care
+0,13,13,13,0,830314,63,buik        - stageringslaparotom.-oment,OKU1,335512H,Recovery room / high care
+0,7,7,7,0,762052,20,buik        - proeflaparotomie,OKU1,335512C,Pathology
+0,7,7,7,0,762049,49,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Pathology
+0,7,7,7,7,885543,59,vrw.gesl.org- adnex-extirpatie dmv lapar,OKU1,336930,Pathology
+0,7,7,7,7,885543,59,buik        - second-look-oper.stagering,OKU1,335519B,Pathology
+0,13,13,0,0,749855,54,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+0,7,7,7,0,799887,38,uterus      - extirpatie abdom.totaal me,OKU1,337101C,Recovery room / high care
+0,7,7,7,0,799887,38,vrw.gesl.org- adnex-extirpatie dmv lapar,OKU1,336930,Pathology
+13,7,7,7,0,801362,83,buik        - stageringslaparotom.-oment,OKU1,335512H,Recovery room / high care
+13,7,7,7,0,889088,67,buik        - stageringslaparotom.-oment,OKU1,335512H,Recovery room / high care
+0,7,7,7,0,896437,74,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+0,13,13,13,13,794566,43,buik        - stag.laparotom.-omentect.-,OKU1,335512J,Pathology
+0,7,7,7,0,762054,77,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+13,7,7,0,0,777577,57,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+0,13,13,13,0,898953,61,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+13,7,7,0,0,755352,55,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Pathology
+0,7,7,0,0,834947,58,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Pathology
+13,7,7,0,0,781499,45,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+13,7,7,0,0,844983,61,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,0,0,844983,61,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,0,0,853037,61,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,0,0,927835,23,vrw.gesl.org- adnex-extirpatie dmv lapar,OKU1,336930,Pathology
+0,7,7,7,0,906930,66,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Recovery room / high care
+0,7,7,0,0,894161,33,dikke darm  - appendectomie nno,OKU1,334919,Pathology
+7,13,13,0,0,897645,68,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+0,7,7,0,0,927836,52,uterus      - extirpatie - abdominaal me,OKU1,337101,Pathology
+0,7,7,0,0,849450,36,buik        - stag.laparotom.-omentect.-,OKU1,335512J,Pathology
+0,7,7,0,0,837122,19,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+0,7,7,0,0,828829,45,perif.vaten - inbrengen port-a-cath syst,OKU1,333699B,Pathology
+0,7,7,0,0,897840,49,buik        - laparoscopie - diagnostisc,OKU1,335584,Pathology
+0,7,7,0,0,897840,49,buik        - primaire stageringsoperati,OKU1,335519A,Pathology
+0,7,7,0,0,894340,73,ovarium     - redebulking ovarium carcin,OKU1,337106A,Recovery room / high care
+0,7,7,0,0,906469,52,buik        - stag.lap-tumorred.-omentec,OKU1,335512N,Pathology
+0,7,7,0,0,897852,67,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,154699,72,buik        - primaire stageringsoperati,OKU1,335519A,Pathology
+7,0,0,0,0,156083,53,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+7,0,0,0,0,156150,73,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,7,7,906259,57,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,0,0,573760,83,buik        - primaire stageringsoperati,OKU1,335519A,Pathology
+7,0,0,0,0,172686,65,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Pathology
+7,0,0,0,0,140498,48,ovarium     - adnex-extirpatie dmv lapar,OKU1,336930A,Pathology
+7,0,0,0,0,187204,58,dikke darm  - appendectomie nno,OKU1,334919,Pathology
+13,7,7,7,7,929638,65,buik        - stageringslaparotom.-oment,OKU1,335512H,Recovery room / high care
+7,0,0,0,0,191168,73,buik        - stageringslaparotom.-oment,OKU1,335512H,Recovery room / high care
+13,7,7,0,0,492170,65,vrw.gesl.org- biopsie-punctie-cytologie,OKU1,337180,Pathology
+13,7,7,0,0,492170,65,buik        - stag.lap-tumorred.-omentec,OKU1,335512N,Recovery room / high care
+7,0,0,0,0,243184,68,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+7,0,0,0,0,254438,70,buik        - proeflaparotomie,OKU1,335512C,Pathology
+7,0,0,0,0,266101,55,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Pathology
+7,0,0,0,0,270800,70,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,279291,76,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Pathology
+7,0,0,0,0,299212,57,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,7,0,801362,83,buik        - stageringslaparotom.-oment,OKU1,335512H,Recovery room / high care
+7,0,0,0,0,310361,65,buik        - stag.laparotom.-omentect.-,OKU1,335512J,Pathology
+13,0,0,0,0,337908,71,buik        - stageringslaparotom.-oment,OKU1,335512G,Pathology
+7,0,0,0,0,348215,49,buik        - stag.laparotom.-omentect.-,OKU1,335512J,Pathology
+7,0,0,0,0,355558,50,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,363618,69,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,371732,65,vrw.gesl.org- adnex-extirpatie dmv lapar,OKU1,336950,Pathology
+13,7,7,7,0,889088,67,buik        - stageringslaparotom.-oment,OKU1,335512H,Recovery room / high care
+7,0,0,0,0,409397,47,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+7,0,0,0,0,450231,75,buik        - stageringslaparotom.-oment,OKU1,335512G,Pathology
+7,0,0,0,0,456784,68,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,458491,63,buik        - primaire stageringsoperati,OKU1,335519A,Pathology
+13,7,7,0,0,777577,57,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+7,0,0,0,0,489159,44,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+7,0,0,0,0,493258,53,buik        - primaire stageringsoperati,OKU1,335519A,Pathology
+7,0,0,0,0,508688,59,vrw.gesl.org- adnex-extirpatie dmv lapar,OKU1,336930,Pathology
+13,7,7,0,0,755352,55,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Pathology
+7,0,0,0,0,513391,66,ovarium     - redebulking ovarium carcin,OKU1,337106A,Recovery room / high care
+7,0,0,0,0,519205,66,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Recovery room / high care
+13,7,7,0,0,781499,45,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+13,0,0,0,0,592071,60,buik        - stag.laparotom.-omentect.-,OKU1,335512J,Pathology
+13,7,7,0,0,844983,61,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,0,0,844983,61,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,0,0,853037,61,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,0,0,0,0,551869,70,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+7,0,0,0,0,556280,48,peritoneum  - omentectomie,OKU1,335571,Pathology
+7,0,0,0,0,558333,42,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+13,0,0,0,0,583868,65,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,0,0,927835,23,vrw.gesl.org- adnex-extirpatie dmv lapar,OKU1,336930,Pathology
+13,0,0,0,0,612366,62,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Pathology
+13,0,0,0,0,612366,62,dunne darm  - mech.ileus-adhes.streng.-i,OKU1,334882,Pathology
+7,0,0,0,0,598762,44,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,608192,69,buik        - stageringslaparotom.-oment,OKU1,335512G,Pathology
+7,0,0,0,0,619680,69,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,13,13,0,0,897645,68,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,623035,53,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,627701,59,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,630228,58,buik        - stag.laparotom.-omentect.-,OKU1,335512J,Pathology
+13,0,0,0,0,712665,39,buik        - stageringslaparotom.-oment,OKU1,335512G,Pathology
+7,0,0,0,0,647284,48,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,665661,51,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,674183,51,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,707671,72,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Pathology
+7,0,0,0,0,772449,59,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,712666,55,buik        - stageringslaparotom.-oment,OKU1,335512G,Pathology
+7,0,0,0,0,714038,64,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,718876,55,lever       - excisie tumor of metastase,OKU1,335211,Recovery room / high care
+7,0,0,0,0,718165,60,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Pathology
+7,0,0,0,0,738962,66,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,724030,52,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,742740,63,buik        - stag.lap-tumorred.-omentec,OKU1,335512N,Recovery room / high care
+7,0,0,0,0,745759,63,buik        - stag.lap-tumorred.-omentec,OKU1,335512N,Pathology
+7,0,0,0,0,756575,74,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Pathology
+7,0,0,0,0,762703,48,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+7,0,0,0,0,774123,54,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,781460,71,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+7,0,0,0,0,784168,37,lymf.syst.  - stageringslymfadenectomie,OKU1,333727,Pathology
+7,0,0,0,0,814954,80,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+7,0,0,0,0,829451,51,buik        - stag.lap-tumorred.-omentec,OKU1,335512N,Pathology
+7,0,0,0,0,844979,69,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Pathology
+7,0,0,0,0,844682,63,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,849757,50,dikke darm  - resectie sigmoid met prima,OKU1,334823,Pathology
+7,0,0,0,0,851881,79,dikke darm  - appendectomie acuut via me,OKU1,334912,Pathology
+7,0,0,0,0,864732,61,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+7,0,0,0,0,886093,61,buik        - stag.lap-tumorred.-omentec,OKU1,335512N,Pathology
+7,0,0,0,0,916453,46,buik        - second-look-oper.ovariumca,OKU1,335512,Pathology
+7,0,0,0,0,919568,57,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Pathology
+0,7,7,7,7,890692,33,buik        - stag.lap-tumorred.-omentec,OKU1,335512N,Pathology
+0,7,7,7,0,742610,72,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,7,7,906259,57,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,0,0,573760,83,buik        - primaire stageringsoperati,OKU1,335519A,Pathology
+0,7,7,7,7,851163,72,buik        - proeflaparotomie,OKU1,335512C,Pathology
+0,13,13,13,7,924686,73,buik        - stageringslaparotom.-oment,OKU1,335512G,Pathology
+0,13,13,13,7,924686,73,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+0,7,7,0,0,443344,64,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,7,7,929638,65,buik        - stageringslaparotom.-oment,OKU1,335512H,Recovery room / high care
+0,7,7,7,0,908704,65,uterus      - extirpatie - abdominaal me,OKU1,337101,Pathology
+13,7,7,0,0,492170,65,vrw.gesl.org- biopsie-punctie-cytologie,OKU1,337180,Pathology
+13,7,7,0,0,492170,65,buik        - stag.lap-tumorred.-omentec,OKU1,335512N,Recovery room / high care
+0,13,13,13,0,830314,63,buik        - stageringslaparotom.-oment,OKU1,335512H,Recovery room / high care
+0,7,7,7,0,762052,20,buik        - proeflaparotomie,OKU1,335512C,Pathology
+0,7,7,7,0,762049,49,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Pathology
+0,7,7,7,7,885543,59,vrw.gesl.org- adnex-extirpatie dmv lapar,OKU1,336930,Pathology
+0,7,7,7,7,885543,59,buik        - second-look-oper.stagering,OKU1,335519B,Pathology
+0,13,13,0,0,749855,54,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+0,7,7,7,0,799887,38,uterus      - extirpatie abdom.totaal me,OKU1,337101C,Recovery room / high care
+0,7,7,7,0,799887,38,vrw.gesl.org- adnex-extirpatie dmv lapar,OKU1,336930,Pathology
+13,7,7,7,0,801362,83,buik        - stageringslaparotom.-oment,OKU1,335512H,Recovery room / high care
+13,7,7,7,0,889088,67,buik        - stageringslaparotom.-oment,OKU1,335512H,Recovery room / high care
+0,7,7,7,0,896437,74,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+0,13,13,13,13,794566,43,buik        - stag.laparotom.-omentect.-,OKU1,335512J,Pathology
+0,7,7,7,0,762054,77,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+13,7,7,0,0,777577,57,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+0,13,13,13,0,898953,61,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+13,7,7,0,0,755352,55,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Pathology
+0,7,7,0,0,834947,58,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Pathology
+13,7,7,0,0,781499,45,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+13,7,7,0,0,844983,61,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,0,0,844983,61,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,0,0,853037,61,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,0,0,927835,23,vrw.gesl.org- adnex-extirpatie dmv lapar,OKU1,336930,Pathology
+0,7,7,7,0,906930,66,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Recovery room / high care
+0,7,7,0,0,894161,33,dikke darm  - appendectomie nno,OKU1,334919,Pathology
+7,13,13,0,0,897645,68,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+0,7,7,0,0,927836,52,uterus      - extirpatie - abdominaal me,OKU1,337101,Pathology
+0,7,7,0,0,849450,36,buik        - stag.laparotom.-omentect.-,OKU1,335512J,Pathology
+0,7,7,0,0,837122,19,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+0,7,7,0,0,828829,45,perif.vaten - inbrengen port-a-cath syst,OKU1,333699B,Pathology
+0,7,7,0,0,897840,49,buik        - laparoscopie - diagnostisc,OKU1,335584,Pathology
+0,7,7,0,0,897840,49,buik        - primaire stageringsoperati,OKU1,335519A,Pathology
+0,7,7,0,0,894340,73,ovarium     - redebulking ovarium carcin,OKU1,337106A,Recovery room / high care
+0,7,7,0,0,906469,52,buik        - stag.lap-tumorred.-omentec,OKU1,335512N,Pathology
+0,7,7,0,0,897852,67,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+0,7,7,7,7,890692,33,buik        - stag.lap-tumorred.-omentec,OKU1,335512N,Pathology
+0,7,7,7,0,742610,72,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,7,7,906259,57,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+0,7,7,7,7,851163,72,buik        - proeflaparotomie,OKU1,335512C,Pathology
+0,13,13,13,7,924686,73,buik        - stageringslaparotom.-oment,OKU1,335512G,Pathology
+0,13,13,13,7,924686,73,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,7,7,929638,65,buik        - stageringslaparotom.-oment,OKU1,335512H,Recovery room / high care
+0,7,7,7,0,908704,65,uterus      - extirpatie - abdominaal me,OKU1,337101,Pathology
+0,13,13,13,0,830314,63,buik        - stageringslaparotom.-oment,OKU1,335512H,Recovery room / high care
+0,7,7,7,0,762052,20,buik        - proeflaparotomie,OKU1,335512C,Pathology
+0,7,7,7,0,762049,49,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Pathology
+0,7,7,7,7,885543,59,vrw.gesl.org- adnex-extirpatie dmv lapar,OKU1,336930,Pathology
+0,7,7,7,7,885543,59,buik        - second-look-oper.stagering,OKU1,335519B,Pathology
+0,7,7,7,0,799887,38,uterus      - extirpatie abdom.totaal me,OKU1,337101C,Recovery room / high care
+0,7,7,7,0,799887,38,vrw.gesl.org- adnex-extirpatie dmv lapar,OKU1,336930,Pathology
+13,7,7,7,0,801362,83,buik        - stageringslaparotom.-oment,OKU1,335512H,Recovery room / high care
+13,7,7,7,0,889088,67,buik        - stageringslaparotom.-oment,OKU1,335512H,Recovery room / high care
+0,7,7,7,0,896437,74,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+0,13,13,13,13,794566,43,buik        - stag.laparotom.-omentect.-,OKU1,335512J,Pathology
+0,7,7,7,0,762054,77,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+0,13,13,13,0,898953,61,ovarium     - redebulking ovarium carcin,OKU1,337106A,Pathology
+0,7,7,7,0,906930,66,ovarium     - debulking ovariumcarcinoom,OKU1,337106,Recovery room / high care
+0,7,7,7,7,890692,33,buik        - stag.lap-tumorred.-omentec,OKU1,335512N,Pathology
+13,7,7,7,7,906259,57,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+0,7,7,7,7,851163,72,buik        - proeflaparotomie,OKU1,335512C,Pathology
+0,13,13,13,7,924686,73,buik        - stageringslaparotom.-oment,OKU1,335512G,Pathology
+0,13,13,13,7,924686,73,buik        - stageringslaparotom.-oment,OKU1,335512H,Pathology
+13,7,7,7,7,929638,65,buik        - stageringslaparotom.-oment,OKU1,335512H,Recovery room / high care
+0,7,7,7,7,885543,59,vrw.gesl.org- adnex-extirpatie dmv lapar,OKU1,336930,Pathology
+0,7,7,7,7,885543,59,buik        - second-look-oper.stagering,OKU1,335519B,Pathology
+0,13,13,13,13,794566,43,buik        - stag.laparotom.-omentect.-,OKU1,335512J,Pathology
